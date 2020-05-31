@@ -1,0 +1,23 @@
+<company name="OurCompany">
+    <dep id="100" name="Department-1">
+        <emp id="101" name="Арам" age="47" position="" salary="" />
+        <emp id="102" name="Альберт" age="50" position="" salary="200" />
+        <emp id="103" name="Ара" age="40" position="" salary="" />
+        <emp id="104" name="Александр" age="36" position="" salary="" />
+        <emp id="105" name="Александра" age="32" position="" salary="" />
+    </dep>
+    <dep id="200" name="Department-2">
+        <emp id="201" name="Виталий" age="27" position="" salary="" />
+        <emp id="202" name="Владимир" age="25" position="" salary="" />
+        <emp id="203" name="Виктор" age="24" position="" salary="" />
+        <emp id="204" name="Василий" age="26" position="" salary="" />
+        <emp id="205" name="Вениамин" age="18" position="" salary="" />
+    </dep>
+    <dep id="300" name="Department-3">
+        <emp id="301" name="Борис" age="27" position="" salary="" />
+        <emp id="302" name="Бенедикт" age="25" position="" salary="" />
+        <emp id="303" name="Богдан" age="24" position="" salary="" />
+        <emp id="304" name="Барбара" age="26" position="" salary="" />
+        <emp id="305" name="Берий" age="18" position="" salary="" />
+    </dep>
+</company>
